@@ -64,6 +64,8 @@ const Demo = () => {
       {/* Search */}
       <div className='flex flex-col w-full gap-2'>
         <form
+          action="/action_page.php"
+          id='form1'
           className='relative flex justify-center items-center'
           onSubmit={handleSubmit}
         >

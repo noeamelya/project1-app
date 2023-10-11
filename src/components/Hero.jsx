@@ -15,10 +15,10 @@ const Hero = () => {
             </button>
         </nav>
         <h1 className='head_text'>
-            Summarize Articles with <br className='max-md:hidden'/>
+            Learning Summarize an article with <br className='max-md:hidden'/>
             <span className='orange_gradient'>OpenAI GPT</span>
         </h1>
-        <h2 className='desc'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque delectus, placeat laborum libero impedit voluptates quisquam saepe tempora nam consequuntur ratione recusandae praesentium quis quam eveniet repellendus corrupti dicta facere?</h2>
+        <h2 className='desc'>Summarization tool that allows you to take an article, paper, or document and condense it into the most important information at a click of a button.</h2>
 
     </header>
   )

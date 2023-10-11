@@ -1,9 +1,24 @@
-# React + Vite
+# Build Summarize an article AI GPT wit React.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description 
+Summarization tool that allows you to take an article, paper, or document and condense it into the most important information at a click of a button.
 
-Currently, two official plugins are available:
+## Technologies 
+ - React
+ - Vite
+ - Tailwind
+ - Node
+ - Rapid API 
+ - LocalStorage
+ - Reduxjs
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# project1-app
+ ## License
+
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+Released under the MIT license. Full details in [LICENSE](./LICENSE).
+
+## Credit : 
+
+⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass Become a Software Engineer. Guaranteed.
+

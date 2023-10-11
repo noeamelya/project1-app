@@ -1,3 +1,4 @@
+
 import { logo } from '../assets';
 
 const Hero = () => {
@@ -7,7 +8,8 @@ const Hero = () => {
             <img src={logo} alt="sumz-logo" className='w-28 object-contain '/>
             <button
             type="button"
-            onClick={() => window.open ('https://github.com/noeamelya/project1-app')}
+            onClick={() => 
+              window.open ('https://github.com/noeamelya/project1-app')}
             className='black_btn'>
                 GitHub
             </button>
@@ -22,4 +24,4 @@ const Hero = () => {
   )
 }
 
-export default Hero
+export default Hero;

@@ -76,6 +76,7 @@ const Demo = () => {
           />
 
           <input
+            id="form"
             type='url'
             placeholder='Paste the article link'
             value={article.url}

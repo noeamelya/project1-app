@@ -12,6 +12,10 @@ Summarization tool that allows you to take an article, paper, or document and co
  - LocalStorage
  - Reduxjs
 
+ ## Outcome 
+
+ ![Summarizer article app](/src/assets/sumoutcome.png)
+
  ## License
 
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
